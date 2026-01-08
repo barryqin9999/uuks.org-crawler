@@ -1,0 +1,4 @@
+DrissionPage>=4.0
+requests
+EbookLib
+lxml
